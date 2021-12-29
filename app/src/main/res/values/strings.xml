@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DiceFallout</string>
+    <string name="message">Welcome to Dice fallOut.</string>
+    <string name="message2">Press roll to roll your die</string>
+    <string name="diceRoll">Roll</string>
+    <string name="user">USER</string>
+    <string name="computer">COMPUTER</string>
+</resources>
